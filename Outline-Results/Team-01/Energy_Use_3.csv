@@ -1,0 +1,13 @@
+Appliance,"Avg. Wattage
+(Watts)
+","Avg.Time Use
+(Hours)
+","Kwh
+(Energy)
+Per Day
+"
+Fridge,725,6,4.35
+Wifi Router,30,24,0.72
+Coffee Maker,1000,0.16,0.16
+HVAC,,,
+Total,,,5.23
